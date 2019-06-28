@@ -1,3 +1,3 @@
-# DiggCSharp
+# DemoUnityIoc
 
-A tour of C#, demos and examples
+A tour of C#, examples and demos.
